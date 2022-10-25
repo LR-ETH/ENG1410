@@ -3,10 +3,8 @@
 
 int main(){
 
-    char name;
-
-    printf("what is your name?: ");
-    scanf("%c", &name);
+    printf("Hello world");
+    printf("Goodbye world");
 
 
 
